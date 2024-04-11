@@ -75,7 +75,11 @@ API文件
 		highest_price:bigint unsigned //最高成交價格
 		created_at:timestamp
 		updated_at:timestamp
+
+![圖片](ErModel.png)		
 		
+
+總結及改善部分:
 
 	API優化:
 	在查詢是我撈出的資料在controller內還有做處理，如果是可行的話希望可以在撈資料時就是我需要的資料了
