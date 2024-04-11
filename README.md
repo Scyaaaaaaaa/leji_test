@@ -76,7 +76,7 @@ API文件
 		created_at:timestamp
 		updated_at:timestamp
 
-![圖片](ErModel.png)		
+![圖片](ErModel.PNG)		
 		
 
 總結及改善部分:
